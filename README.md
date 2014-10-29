@@ -1,5 +1,5 @@
-Android-Friendly NumPy and Matplotlib
-=====================================
+Analysis Kit
+============
 
 version 0.0.1 (17-Oct-2014)
 
